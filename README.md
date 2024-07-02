@@ -4,4 +4,5 @@ Example applications in Java, Python, Scala and SQL for Amazon Managed Service f
 
 * [Java examples](./java)
 * [Python examples](./python)
+* [Scala examples](./scala)
 * [Operational utilities and infrastructure code](./infrastructure)
